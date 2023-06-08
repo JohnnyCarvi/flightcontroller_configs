@@ -16,7 +16,7 @@ The configuration files in this repository are intended to assist you in setting
 
 At present, the repository supports configuration files for the following 3D Printed drone:
 
-- Nano3LR1 (Happymodel X12 AIO)
+- Nano3LR1 (Happymodel X12 AIO) --> https://www.thingiverse.com/thing:6068779
 - Nano3LRG (JHEMCU GSF405A-BMI)
 
 ## Usage
