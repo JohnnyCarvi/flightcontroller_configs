@@ -1,6 +1,6 @@
 # Flight Controller Config Repository
 
-Welcome to the Flight Controller Config Repository! This repository is dedicated to storing configuration files for various flight controllers used in my 3D Printed drones.
+Welcome to the Flight Controller Config Repository! This repository is dedicated to storing configuration files for various flight controllers used in my 3D Printed drones. You can learn more about my drones here --> www.carvalhais.ch
 
 ## Contents
 
